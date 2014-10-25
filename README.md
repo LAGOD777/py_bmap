@@ -1,7 +1,7 @@
 py_bmap
 =======
 
-baidu地图所有行业电话地址采集
+baidu  map 电话地址采集
 
   运行环境 
     python2.7.X
